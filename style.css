@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+body{
+    font-family:'Young Serif', serif;
+    text-align: center;
+    background:url(assets/mario-wallpaper.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+   
+}
+
+h1,h2{
+    margin:10px 10% 10px 10%;
+}
+/*-----------Board----------*/
+#Board{
+    width:540px;
+    height:540px;
+    background-image:url(assets/soil.png);
+    border:8px solid black;
+    border-radius: 24px;
+    margin:auto;
+}
+
+#inner-board{
+    margin:33px 34px 20px 27px;
+    display:flex;
+    flex-wrap: wrap;
+    width:90%;
+    height:90%
+}
+
+#inner-board div{
+    margin:auto;
+}
+
+#inner-board div img{
+    width:50px;
+    height:50px;
+}
+
+#inner-board div{
+    width:33%;
+    height:33%;
+    background-image: url(assets/pipe.png);
+    background-size: contain;
+}
+
