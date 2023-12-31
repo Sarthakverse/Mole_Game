@@ -1,4 +1,5 @@
-# Whack-a-Mole Game 🕹️🦔
+# Whack-a-Mole Game 🕹️🦔 
+#### https://sarthakverse.github.io/Mole_Game/
 ## Welcome to the Whack-a-Mole Game! Experience the joy of this classic game where moles pop up, and it's your mission to whack them down.
 ### ![image](https://github.com/Sarthakverse/Mole_Game/assets/117356021/6e13346e-3c1c-420b-a0ee-1a6c904b65f2)
 # Features 🚀🎮
